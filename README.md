@@ -22,6 +22,9 @@ Membuat aplikasi konversi suhu dari Celcius ke Fahrenheit, Kelvin, dan Reamur se
 <img width="298" height="319" alt="image" src="https://github.com/user-attachments/assets/84f6418c-71c1-4538-b677-584d2a49a29d" />
 <img width="298" height="319" alt="image" src="https://github.com/user-attachments/assets/4f7d3e32-341d-4a34-882a-5eb1cd17b47d" />
 
+- Validasi Input Harus Berupa Angka
+<img width="299" height="321" alt="image" src="https://github.com/user-attachments/assets/22f22b75-865f-40c0-9aab-ef9cefe74679" />
+
 
 
 
